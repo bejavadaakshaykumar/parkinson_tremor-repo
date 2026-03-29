@@ -4,3 +4,4 @@ pandas
 scikit-learn
 praat-parselmouth
 python-multipart
+python-docx
